@@ -23,6 +23,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 # ------------------- UI -------------------
 st.title("NewsBot: News Research Tool 📈")
 st.sidebar.title("News Article URLs")
+st.image("assets/NewsBot logo with futuristic tech design.png",width = 250)
 
 urls = []
 n = st.sidebar.number_input("Number of URLs", min_value=1, max_value=10, value=3)
