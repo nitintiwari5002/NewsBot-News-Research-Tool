@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/1647fcac-1fcc-41f7-8738-10ea20699177" />
+</p>
+
 # 📰 NewsBot: AI-Powered News Research Tool
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/nitintiwari5002/NewsBot-News-Research-Tool?style=social) 
