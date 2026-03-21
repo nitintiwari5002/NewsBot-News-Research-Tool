@@ -124,4 +124,4 @@ Enable debug mode to verify which chunks are being used for answers.
 
 - HuggingFace Sentence Transformers
 
-#### You can access the website via **"https://newsbottool.streamlit.app/"**
+#### You can access the website via **"https://newsbotapp.streamlit.app/"**
